@@ -16,4 +16,4 @@ print ("Vysledek:" + vystup)
 ```
 
 ### Semafor
-1. Semafor s reálným časováním
+1. Semafor s reálným časováním (pojmenuj soubor `semaphore.py`)
